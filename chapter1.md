@@ -22,11 +22,11 @@
   * x\(t\) = Xeven\(t\) + Xodd\(t\) &lt;- Fourier
 * 週期性訊號（Periodic Signal）、非週期性訊號（Non-Periodic Signal）
 
-
-
 ### 基本的連續時間訊號
 
-
+* Unit Step function, u\(t\)     單位函數
+  * ![](https://qph.fs.quoracdn.net/main-qimg-d223b378c4b7b3edcb4d4f61607f6bca)
+* Unit Step Pulse function    單位脈衝函數
 
 
 
