@@ -1,3 +1,12 @@
-# My Awesome Book
+# 訊號與系統 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+開課學年：106下學年
+
+授課教師：蘇文鈺
+
+上課時間：（三）14:00-17:00
+
+Office hour：（四）19:00-21:00
+
+課程網站：[http://screamlab-ncku-2008.blogspot.tw/](http://screamlab-ncku-2008.blogspot.tw/)
+
