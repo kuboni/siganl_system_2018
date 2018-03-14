@@ -12,3 +12,5 @@ Office hour：（四）19:00-21:00
 
 教課書：[https://electronicsbookcafe.files.wordpress.com/2015/08/signals-and-systems-2nd-edition-schaums-outline-series-hwei-hsu.pdf](https://electronicsbookcafe.files.wordpress.com/2015/08/signals-and-systems-2nd-edition-schaums-outline-series-hwei-hsu.pdf)
 
+FTP：
+
